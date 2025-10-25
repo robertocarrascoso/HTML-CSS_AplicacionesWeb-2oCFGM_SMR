@@ -11,9 +11,21 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 a {
   color: #B9B9B9;
   text-decoration: none;
+}
+
+.a-github{
+  color: rgb(71, 71, 241);
+}
+
+.github-d {
+  margin-bottom: 20px;
 }
 
 .contenedor {
