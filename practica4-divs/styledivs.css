@@ -1,0 +1,34 @@
+body {
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+div {
+    width: 50%;
+    height: 50%;
+    box-sizing: border-box;
+}
+
+.divuno {
+    border: 4px solid #3fff18;
+    background-color: #3d3c3c;
+}
+
+.divdos {
+    border: 4px dotted #ffffff;
+    background-color: #1342db;
+}
+
+.divtres {
+    border: 4px dashed #f022d4;
+    background-color: #310628;    
+}
+
+.divcuatro {
+    border: 4px ridge #ffb71b;
+    background-color: #363210;
+}

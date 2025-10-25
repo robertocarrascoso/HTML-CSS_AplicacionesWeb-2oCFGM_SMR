@@ -1,0 +1,46 @@
+body {
+    background-color: #161616;
+    padding: 0;
+    color: #cecece;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.divprincipal {
+    display: flex;
+    justify-content: center;
+}
+
+.table {
+
+    text-align: left;
+}
+
+.columizq {
+    font-weight: bold;
+    padding-left: 6px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.columder {
+    padding: 6px;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+.tonyimg { 
+    width: 550px;
+    border-radius: 25px;
+}
+
+.tonydiv {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+}
